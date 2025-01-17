@@ -52,7 +52,8 @@
     <h2>Contact Us</h2>
     <p>For any inquiries, please contact us at <a href="mailto:support@example.com">support@example.com</a>.</p>
 </section>
-<!-- Logout Button -->
+<!--logout Button --> 
+<!-- this is button -->
 <form action="logout.php" method="POST" style="text-align: right; margin-top: 20px;">
     <button type="submit" style="background-color: #dc3545; color: #fff; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;" >Logout</button>
 </form>
